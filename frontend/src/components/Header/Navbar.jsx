@@ -14,6 +14,10 @@ const navLinks = [
     path: "/",
     display: "Home",
   },
+  {
+    path:"/about",
+    display: "About"
+  },
 
   {
     path: "/courses",
