@@ -249,9 +249,12 @@ const About = () => {
             padding={2}
             justifyContent="center"
             alignItems="center"
+            gap="10px"
           >
             <Typography variant="h4">Class Diagram</Typography>
             <img width="100%" src="/ClassDiagram.jpg" alt="Class Diagram" />
+            <Typography variant="h4">Activity Diagram</Typography>
+            <img width="100%" src="/ActivityDiagram.jpg" alt="Class Diagram" />
             
             <Typography variant="h4">Data Flow Diagram</Typography>
             <img
